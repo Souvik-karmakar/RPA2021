@@ -1,0 +1,53 @@
+No limitations are set for editing texts and pictures, converting PDF to Word, and splitting and merging files. Learn more >
+they were still regarded HE algebraic hr.tiQn- Swiss mathematician Leonhard
+Euler introduced the notation i (for imaginary) around 1777 to represent
+en*neets use the notation .i instead of to cvoid confusion with the
+notation i often for electrical current. Thus For example. to find a solution o:
+in the above equation to obtain
+10 + + — 20 = O, we 5nhstitntE
+- v'iöä= '20.392 - •.Yo.3gz=2
+This allows us to determine the square root oi any negative number. For
+When imaginary numbers axe in the aumbel system, the resulting We can readily verify that 2 is indeed a solution ot 4- — 20 -z O. But When
+Cardano trjei to solve the equation — — = O by 'his formula, his solution
+d p cubie equatjom k genet.l equation
+cedu&d to by Y = x
+cubic, - del Feno (14651526) and by Niccolo
+cubic by Sc.pLo numbers axe calted complex numbers.
+Origins Complex Numbers
+Ironically (and contrary to popular belief), it not the solution of a quadratic
+egotiDn, such as + I = O, but g cubic eq uAtiOä With real coots thn
+Cardano to •nake OF this equation jn the year 1545? In those days
+Whät w
+negative numbeæ were themselves suspect. and square root DE a negative aumbet
+wzß doubly preposterous! Today we know that
+Therefore, formu'a
+We readL]y verify that 4 is ind&d a solution oi — 1 2
+tried to explain had-heartedly the presence OF but ultimately dismissed the
+whole enterprise being subtle it is A generation later. however
+Raphael Bombel'i (1526-1573), after examining Cardanols ræuLts, proposed ac-
+ceptaace of imaginary numbers o necessary vehicle that would transport the
+mathematician from the real cubic equation to its rcai solution. In other words,
+while we begin and end with real numbers, we scem compelled to move into an
+unfuniliat world of imaginaries to complete our jonruey To taathematjcians of the
+day, thls proposol seemed incredibly strange.' Vet they could not dlsmiss the idea
+of imaginary numbers so exsjly becau* this concept yielded the real sokution of an
+equation _ R took two more centurie fot the fun importance of complex numbers to
+beu_nne evident. in the works of Euler. Gauss, and Cauchy. Still, deserves
+credit for recognizing that such numbers have a role to play in algebra.
+In 1799, the German mathematician Karl &iedrich Gnusss at ripc agc
+OE 22, proved the fundarnentkl thcorcm oi algebra, namely that every algebraic
+equation in one unknown haz a mot in the. form of number. He Showal
+that every equation of the nth order has exactly n solutions (coots), no more and no Fontana (1499--1557b i
+'he of the cubic
+K hen showed that by usine the substitution
+Complo: Numbers Country
+of complex ..urtlbers can reduce the ced to a
+The numbers a and b
+the imaginary part, -a and (he ordinate) ot z a-re tho part and
+respectively. DE z _ They are also expr«sed a-
+in tbis plane all real numbers Lie on the horizontal axis, and all imhginA_ry
+Note that
+numbers lie on the vevtica_]
+Comp!ex numbers taay also be expressed in terms of polar coordinates 9)
+(see Fib B.2}, then
+are the polar coordinates OF a point

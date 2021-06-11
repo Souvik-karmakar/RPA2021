@@ -1,5 +1,5 @@
 {
-  "name": "Browser Integration_static",
+  "name": "BrowserExample_static",
   "description": "Browser Automation",
   "main": "Main.xaml",
   "dependencies": {

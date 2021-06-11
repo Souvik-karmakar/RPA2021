@@ -1,6 +1,6 @@
 {
-  "name": "IMDB Rating Automation",
-  "description": "IMDB",
+  "name": "Notepad Automation",
+  "description": "To automate a notepad application",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",

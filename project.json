@@ -1,9 +1,8 @@
 {
-  "name": "Excelbot",
-  "description": "Blank Process",
+  "name": "FakeNamegenAutomation",
+  "description": "FakeNamegenerator",
   "main": "Main.xaml",
   "dependencies": {
-    "DocumentFormat.OpenXml": "[2.13.0]",
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
     "UiPath.System.Activities": "[19.10.1]",
@@ -30,8 +29,7 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    },
-    "fileInfos": []
+    }
   },
   "expressionLanguage": "VisualBasic"
 }

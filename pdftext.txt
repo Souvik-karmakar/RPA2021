@@ -1,0 +1,61 @@
+To prove the Euler formula, we expand e", cos 9, and sin 0 using a Ma.claurin series 6 The Euler formula states that
+= cos 0 + j sin 9
+e -1 Background B.l Complex Numbers j
+1m 1m
+It'2
+eje
+sin 9 Re
+Fig, B.3 Understanding some useful identities in terms of 1
+(b) 02
+2!
+94
+02
+93
+3! 2
+e 93
+06 3! 94
+08
+8! 4 6!
+5!
+4! 96
+05 6
+Hence, it follows that
+Using (B,3) in (B,2) yields = cos 9 + j sin 0 The graphical representation of a number z and its conjugate z* is depicted in Fig,
+B,2. Observe that z* is a mirror image of z about the horizontal axis. To find the
+conjugate of any number, we need only to replace j by —j in that number (which
+is the same as changing the sign of its angle).
+The sum of complex number and its conjugate is a real number equal to twice
+the real part of the number:
+z + z* = (a + jb) + (a — 5b) = 20 2 Rez (B.10a)
+(B.4)
+Thus, a complex number can be expressed in Cartesian form a + jb or polar form The product of a complex number z and its conjugate is a real number Iz12,
+reje with a = r cos 9,
+and the square of the magnitude of the number: ¯ + b2 = Izt2
+zz* = (a + — 5b) —
+Understanding Some Useful Identities (B. 10b)
+b = r sin 8 b
+9 tan¯l
+Observe that r is the distance of the point z from the origin. For this reason,
+r is also called the magnitude (or absolute value) of z and is denoted by Izl.
+Similarly 0 is called the angle of z and is denoted by Zz. Therefore
+IZI = r, In a complex plane, reje represents a point at a distance r from the origin and
+at an angle e with the horizontal axis, as shown in Fig. B.3a. For example, the
+number —1 is at a unit distance from the origin and has an angle or —T (in fact,
+any odd multiple of ±ff), as seen from Fig. B.3b. Therefore,
+In fact, n odd integer (Bell)
+and
+Also 1
+z 1 ¯ IzlejLz 1
+1 The number 1, on the other hand, is also at a unit distance from the origin, but
+has an angle '2n (in fact, ±2nff for any integral value of n). Therefore,
+±j2nr n integer (B.12)
+(B.8)
+(B.9a)
+(B.9b) The number j is at unit distance from the origin and its angle is T /2 (see Fig. B.3b).
+Conjugate of a Complex Number
+We define z* , the conjugate of z = a + jb, as
+z Therefore,
+Similarly,
+Thus e
+±jft/2
+e (B.13a)

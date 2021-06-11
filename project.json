@@ -1,6 +1,6 @@
 {
-  "name": "BrowserExample_static",
-  "description": "Browser Automation",
+  "name": "Desktop_Recording",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
